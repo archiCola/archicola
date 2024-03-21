@@ -6,5 +6,5 @@ hi there! i'm archicola, a passionate developer who loves building cool stuff wi
 
 ## get in touch
 
-feel free to reach out to me via email at my discord, _delta000!
+feel free to reach out to me at my discord, _delta000
 
